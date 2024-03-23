@@ -1,0 +1,335 @@
+{
+    "pageProps": {
+        "menu": {
+            "id": "ZA7U_xAAACkAYihI",
+            "uid": "menu",
+            "url": null,
+            "type": "menu",
+            "href": "https://web-ogs.cdn.prismic.io/api/v2/documents/search?ref=ZYGUqxEAACMAuovi&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZA7U_xAAACkAYihI%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-03-13T07:47:14+0000",
+            "last_publication_date": "2023-12-19T13:03:39+0000",
+            "slugs": [
+                "menu"
+            ],
+            "linked_documents": [],
+            "lang": "en-za",
+            "alternate_languages": [],
+            "data": {
+                "logo_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1603\" height=\"331\" viewBox=\"0 0 1603 331\" fill=\"none\">\n<path d=\"M682.62 330.848V302.778H856.298V330.848H682.62V330.848Z\" fill=\"#2EF938\"/>\n<path d=\"M1551.78 97.1904H1527.13H1502.48H1477.83H1453.18H1428.53V122.303H1453.18H1477.83H1502.48H1527.13H1551.78H1576.43V97.1904H1551.78Z\" fill=\"#2EF938\"/>\n<path d=\"M1578.35 124.263H1426.58V95.208H1578.35V124.263ZM1430.45 120.32H1574.48V99.1504H1430.45V120.32Z\" fill=\"#2EF938\"/>\n<path d=\"M1403.87 147.415V172.527H1428.52V147.415V122.303H1403.87V147.415Z\" fill=\"#2EF938\"/>\n<path d=\"M1430.45 174.487H1401.93V120.32H1430.45V174.487ZM1405.8 170.545H1426.58V124.263H1405.8V170.545Z\" fill=\"#2EF938\"/>\n<path d=\"M1453.18 197.64H1477.83H1502.48V172.527H1477.83H1453.18H1428.53V197.64H1453.18Z\" fill=\"#2EF938\"/>\n<path d=\"M1504.4 199.6H1426.58V170.545H1504.4V199.6ZM1430.45 195.657H1500.53V174.487H1430.45V195.657Z\" fill=\"#2EF938\"/>\n<path d=\"M1601.08 122.303H1576.43V147.415H1601.08V122.303Z\" fill=\"#2EF938\"/>\n<path d=\"M1603 149.375H1574.48V120.32H1603V149.375ZM1578.35 145.432H1599.13V124.263H1578.35V145.432Z\" fill=\"#2EF938\"/>\n<path d=\"M1527.13 222.729H1551.78H1576.43V197.641H1551.78H1527.13H1502.48V222.729H1527.13Z\" fill=\"#2EF938\"/>\n<path d=\"M1578.35 224.713H1500.53V195.658H1578.35V224.713ZM1504.4 220.77H1574.48V199.601H1504.4V220.77Z\" fill=\"#2EF938\"/>\n<path d=\"M1428.52 222.73H1403.87V247.843V272.955H1428.52V247.843V222.73Z\" fill=\"#2EF938\"/>\n<path d=\"M1430.45 274.937H1401.93V220.771H1430.45V274.937ZM1405.8 270.995H1426.58V224.713H1405.8V270.995Z\" fill=\"#2EF938\"/>\n<path d=\"M1527.13 272.953H1502.48H1477.83H1453.18H1428.53V298.065H1453.18H1477.83H1502.48H1527.13H1551.78H1576.43V272.953H1551.78H1527.13Z\" fill=\"#2EF938\"/>\n<path d=\"M1578.35 300.048H1426.58V270.993H1578.35V300.048ZM1430.45 296.105H1574.48V274.936H1430.45V296.105Z\" fill=\"#2EF938\"/>\n<path d=\"M1576.43 272.955H1601.08V247.843V222.73H1576.43V247.843V272.955Z\" fill=\"#2EF938\"/>\n<path d=\"M1603 274.937H1574.48V220.771H1603V274.937ZM1578.35 270.995H1599.13V224.713H1578.35V270.995Z\" fill=\"#2EF938\"/>\n<path d=\"M1192.61 37.1475H1163.48V66.2759H1192.61V37.1475Z\" fill=\"#2EF938\"/>\n<path d=\"M1194.89 68.5785H1161.18V34.8652H1194.89V68.5785ZM1165.76 63.9937H1190.31V39.4501H1165.76V63.9937V63.9937Z\" fill=\"#2EF938\"/>\n<path d=\"M1279.99 8.01953H1250.87H1221.74H1192.61V37.148H1221.74H1250.87H1279.99H1309.12V8.01953H1279.99Z\" fill=\"#2EF938\"/>\n<path d=\"M1311.41 39.4506H1190.31V5.7373H1311.41V39.4506ZM1194.89 34.8657H1306.84V10.3221H1194.89V34.8657Z\" fill=\"#2EF938\"/>\n<path d=\"M1309.12 37.1475V66.2759H1338.25V95.4044H1367.38V66.2759V37.1475H1338.25H1309.12Z\" fill=\"#2EF938\"/>\n<path d=\"M1369.66 97.707H1335.95V68.5785H1306.82V34.8652H1369.66V97.707V97.707ZM1340.53 93.1222H1365.08V39.4501H1311.4V63.9937H1340.53V93.1222Z\" fill=\"#2EF938\"/>\n<path d=\"M1134.33 95.4049V124.533V153.662V182.813V211.942V241.07H1163.48V211.942V182.813V153.662V124.533V95.4049V66.2764H1134.33V95.4049Z\" fill=\"#2EF938\"/>\n<path d=\"M1165.76 243.35H1132.05V63.9941H1165.76V243.35ZM1136.63 238.765H1161.18V68.5562H1136.63V238.765Z\" fill=\"#2EF938\"/>\n<path d=\"M1192.61 241.07H1163.48V270.199H1192.61V241.07Z\" fill=\"#2EF938\"/>\n<path d=\"M1194.89 272.479H1161.18V238.766H1194.89V272.479ZM1165.76 267.894H1190.31V243.35H1165.76V267.894V267.894Z\" fill=\"#2EF938\"/>\n<path d=\"M1221.74 299.329H1250.87H1279.99H1309.12H1338.25V270.2H1309.12H1279.99H1250.87H1221.74H1192.61V299.329H1221.74Z\" fill=\"#2EF938\"/>\n<path d=\"M1340.53 301.609H1190.31V267.896H1340.53V301.609ZM1194.89 297.024H1335.97V272.48H1194.89V297.024Z\" fill=\"#2EF938\"/>\n<path d=\"M1367.38 241.07V211.942V182.813H1338.25H1309.12H1279.99H1250.87V211.942H1279.99H1309.12H1338.25V241.07V270.199H1367.38V241.07Z\" fill=\"#2EF938\"/>\n<path d=\"M1369.66 272.479H1335.95V214.222H1248.56V180.509H1369.66V272.479ZM1340.53 267.894H1365.08V185.094H1253.13V209.637H1340.51V267.894H1340.53Z\" fill=\"#2EF938\"/>\n<path d=\"M975.857 37.148H1004.99H1034.11V8.01953H1004.99H975.857H946.729H917.6V37.148H946.729H975.857Z\" fill=\"#2EF938\"/>\n<path d=\"M1036.4 39.4506H915.297V5.7373H1036.4V39.4506ZM919.882 34.8657H1031.83V10.3221H919.882V34.8657Z\" fill=\"#2EF938\"/>\n<path d=\"M917.601 37.1475H888.473V66.2759H917.601V37.1475Z\" fill=\"#2EF938\"/>\n<path d=\"M919.882 68.5785H886.169V34.8652H919.882V68.5785ZM890.754 63.9937H915.298V39.4501H890.754V63.9937Z\" fill=\"#2EF938\"/>\n<path d=\"M1063.24 95.4049V124.533V153.662V182.813V211.942V241.07H1092.37V211.942V182.813V153.662V124.533V95.4049V66.2764H1063.24V95.4049Z\" fill=\"#2EF938\"/>\n<path d=\"M1094.65 243.35H1060.94V63.9941H1094.65V243.35ZM1065.52 238.765H1090.07V68.5562H1065.52V238.765Z\" fill=\"#2EF938\"/>\n<path d=\"M1063.24 37.1475H1034.11V66.2759H1063.24V37.1475Z\" fill=\"#2EF938\"/>\n<path d=\"M1065.52 68.5785H1031.81V34.8652H1065.52V68.5785ZM1036.39 63.9937H1060.94V39.4501H1036.39V63.9937Z\" fill=\"#2EF938\"/>\n<path d=\"M888.472 182.813V153.662V124.533V95.4049V66.2764H859.344V95.4049V124.533V153.662V182.813V211.942V241.07H888.472V211.942V182.813Z\" fill=\"#2EF938\"/>\n<path d=\"M890.753 243.35H857.04V63.9941H890.753V243.35ZM861.625 238.765H886.168V68.5562H861.625V238.765Z\" fill=\"#2EF938\"/>\n<path d=\"M917.601 241.07H888.473V270.199H917.601V241.07Z\" fill=\"#2EF938\"/>\n<path d=\"M919.882 272.479H886.169V238.766H919.882V272.479ZM890.754 267.894H915.298V243.35H890.754V267.894Z\" fill=\"#2EF938\"/>\n<path d=\"M1063.24 241.07H1034.11V270.199H1063.24V241.07Z\" fill=\"#2EF938\"/>\n<path d=\"M1065.52 272.479H1031.81V238.766H1065.52V272.479ZM1036.39 267.894H1060.94V243.35H1036.39V267.894Z\" fill=\"#2EF938\"/>\n<path d=\"M975.857 270.2H946.729H917.6V299.329H946.729H975.857H1004.99H1034.11V270.2H1004.99H975.857Z\" fill=\"#2EF938\"/>\n<path d=\"M1036.4 301.609H915.297V267.896H1036.4V301.609ZM919.882 297.024H1031.83V272.48H919.882V297.024Z\" fill=\"#2EF938\"/>\n<path d=\"M0 66.4248H32.1088L58.7908 268.122H62.8609L102.658 66.4248H142.455L182.251 268.122H186.321L213.003 66.4248H244.208L208.481 299.779H161.448L124.365 104.413H120.747L82.7593 299.779H35.7267L0 66.4248Z\" fill=\"#00F937\"/>\n<path d=\"M365.013 301.731C348.787 301.731 334.155 298.978 321.116 293.473C308.367 287.968 297.356 280.144 288.084 270.003C279.102 259.572 272.148 247.258 267.222 233.06C262.296 218.572 259.833 202.491 259.833 184.816C259.833 166.852 262.296 150.626 267.222 136.138C272.438 121.65 279.537 109.336 288.519 99.1946C297.501 88.7636 308.222 80.7954 320.681 75.2901C333.43 69.7849 347.483 67.0322 362.84 67.0322C377.907 67.0322 391.526 69.7849 403.695 75.2901C416.154 80.7954 426.73 88.4738 435.423 98.3254C444.115 107.887 450.78 119.332 455.416 132.661C460.052 145.99 462.37 160.622 462.37 176.558V193.074H296.342V203.505C296.342 213.357 297.936 222.484 301.123 230.887C304.31 239.289 308.802 246.533 314.597 252.618C320.681 258.703 327.925 263.484 336.328 266.961C345.02 270.148 354.582 271.742 365.013 271.742C380.08 271.742 393.119 268.265 404.13 261.311C415.14 254.357 423.543 244.795 429.338 232.625L454.981 250.01C448.317 265.077 437.161 277.537 421.515 287.388C406.158 296.95 387.324 301.731 365.013 301.731ZM362.84 95.7176C353.278 95.7176 344.441 97.4561 336.328 100.933C328.215 104.41 321.116 109.191 315.031 115.276C309.236 121.361 304.6 128.604 301.123 137.007C297.936 145.12 296.342 154.103 296.342 163.954V166.996H424.992V162.216C424.992 152.364 423.398 143.382 420.211 135.269C417.313 127.156 413.112 120.202 407.607 114.407C402.391 108.322 395.872 103.686 388.049 100.499C380.515 97.3112 372.112 95.7176 362.84 95.7176Z\" fill=\"#00F937\"/>\n<path d=\"M491.096 0.475586H527.916V98.3773H529.757C545.099 68.9207 569.493 54.1924 602.939 54.1924C632.088 54.1924 654.795 65.0852 671.057 86.8708C687.626 108.656 695.911 139.187 695.911 178.462C695.911 217.738 687.626 248.268 671.057 270.054C654.795 291.84 632.088 302.732 602.939 302.732C569.493 302.732 545.099 288.004 529.757 258.548H527.916V297.209H491.096L491.096 0.475586ZM588.671 270.054C610.149 270.054 626.719 263.61 638.379 250.723C650.345 237.529 656.329 220.193 656.329 198.714V158.211C656.329 136.732 650.345 119.549 638.379 106.662C626.719 93.4679 610.149 86.8708 588.671 86.8708C580.386 86.8708 572.561 87.9447 565.197 90.0926C557.833 92.2405 551.39 95.4623 545.866 99.7581C540.343 103.747 535.894 108.81 532.519 114.947C529.451 120.777 527.916 127.68 527.916 135.658V221.267C527.916 229.244 529.451 236.302 532.519 242.438C535.894 248.268 540.343 253.331 545.866 257.627C551.39 261.616 557.833 264.684 565.197 266.832C572.561 268.98 580.386 270.054 588.671 270.054Z\" fill=\"#00F937\"/>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "menu_links": [
+                    {
+                        "link": {
+                            "link_type": "Any"
+                        },
+                        "anchor_link": "#solutions",
+                        "label": "Solutions"
+                    },
+                    {
+                        "link": {
+                            "link_type": "Any"
+                        },
+                        "anchor_link": "#contact",
+                        "label": "Contact"
+                    }
+                ],
+                "socials": [
+                    {
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20 1V2H22V4H23V20H22V22H20V23H4V22H2V20H1V4H2V2H4V1L20 1ZM20 4H21V20H20V21H4V20H3V4H4V3L20 3V4Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 5V7H4V17H5V19H7V20H17V19H19V17H20V7H19V5H17V4L7 4V5H5ZM6 7H7V6H17V7H18V17H17V18H7V17H6V7Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 9V8H14V9H15V10H16V14H15V15H14V16H10V15H9V14H8V10H9V9H10ZM10 11V10H11V9H13V10H14V11H15V13H14V14H13V15H11V14H10V13H9V11H10Z\" fill=\"currentColor\"></path>\n<path d=\"M15 7V9H17V7H15Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "link": {
+                            "link_type": "Web",
+                            "url": "https://www.instagram.com/web_ogs/",
+                            "target": "_blank"
+                        },
+                        "label": "Instagram"
+                    },
+                    {
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20 2V1H4V2H2V4H1V20H2V22H4V23H20V22H22V20H23V4H22V2H20ZM21 4H20V3H4V4H3V20H4V21H20V20H21V4Z\" fill=\"currentColor\"></path>\n<path d=\"M5 8H8V9H11V7H12V6H13V5H15V6H16V7H17V8H18V7H19V8H18V9H19V10H18V9H17V12H16V15H15V16H13V18H11V19H7V18H6V17H5V16H9V15H8V13H7V11H6V9H5V8Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "link": {
+                            "link_type": "Web",
+                            "url": "https://twitter.com/web_OGs",
+                            "target": "_blank"
+                        },
+                        "label": "Twitter"
+                    },
+                    {
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 10H5V18H8V10Z\" fill=\"currentColor\"></path>\n<path d=\"M5 6H8V8H5V6Z\" fill=\"currentColor\"></path>\n<path d=\"M13 10H10V18H13V14H14V13H16V18H19V11H18V10H15V11H13V10Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20 1V2H22V4H23V20H22V22H20V23H4V22H2V20H1V4H2V2H4V1L20 1ZM20 4H21V20H20V21H4V20H3V4H4V3L20 3V4Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "link": {
+                            "link_type": "Web",
+                            "url": "https://www.linkedin.com/company/web-ogs/",
+                            "target": "_blank"
+                        },
+                        "label": "LinkedIn"
+                    }
+                ],
+                "left_icon_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21 2H3V4H1V16H3V18H18.5V20H21V22H23V4H21V2ZM21 4V18H18.5V16H3V4H21ZM6 7V9H12V7H6ZM15 7H17V9H15V7Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "right_icon_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M23 4H1V20H23V4ZM19 6H5V8H3V18H21V8H19V6ZM17 10H19V8H17V10ZM15 12H17V10H15V12ZM13 14H15V12H13V14ZM11 14V16H13V14H11ZM9 12V14H11V12H9ZM7 10H5V8H7V10ZM7 10V12H9V10H7Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "right_button_text": "SIGN UP WITH SWAYE",
+                "right_button_link": {
+                    "link_type": "Web",
+                    "url": "https://swaye.me/oauth2?response_type=code&client_id=8915b547-5b90-41ca-abd3-31451266994a&state=t&scope=read&redirect_uri=https%3A%2F%2Fweb-ogs.com%2Fauth%2Fcallback&campaignUUID=KFBF97NE4J"
+                },
+                "expand_icon_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 6V2H10V6H14V10H18V14H14V18H10V22H6V18H10V14H14V10H10V6H6Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "close_icon_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 6V2H6V6H10V10H14V6H18V2H22V6H18V10H14V14H18V18H22V22H18V18H14V14H10V18H6V22H2V18H6V14H10V10H6V6H2Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "invader_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 3H8V5H6V3Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 5H14V7H10V5H8V7H6V9H4V12H1V19H3V15H5V19H7V21H11V19H7V17H17V19H13V21H17V19H19V15H21V19H23V12H20V9H18V7H16V5ZM7 10H9V12H7V10ZM15 10H17V12H15V10Z\" fill=\"currentColor\"></path>\n<path d=\"M16 5V3H18V5H16Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "invader_alt_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 3H8V5H6V3Z\" fill=\"currentColor\"></path>\n<path d=\"M16 5V3H18V5H16Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 5H14V7H10V5H8V7H6V9H4V5H2V15H4V17H6V19H8V17H16V19H18V17H20V15H22V5H20V9H18V7H16V5ZM7 10H9V12H7V10ZM15 10H17V12H15V10Z\" fill=\"currentColor\"></path>\n<path d=\"M6 19H4V21H6V19Z\" fill=\"currentColor\"></path>\n<path d=\"M18 19V21H20V19H18Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "pacman_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 1H16V3H20V5L22 5V9H18V10H14V11H11V13H14V14H18V15H22V19H20V21H16V23H10V21H6L6 19H4V15H2V9H4V5H6V3H10V1Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "ghost_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 2H8V4H6V6H4V10H2V22H4V20H5V18H7V21H8V22H10V18H14V22H16V21H17V18H19V20H20V22H22V10H20V6H18V4H16V2ZM10 7H7V8H6V13H7V11H10V13H11V8H10V7ZM17 7H14V8H13V13H14V11H17V13H18V8H17V7Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "bomb_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.30435 0H4.17391V1H2.08696V4H0V6H2.08696V8H4.17391V6H6.26087V4H4.17391V2H7.30435V3H12.5217V4H10.4348V6H7.30435V8H5.21739V11H3.13043V17H5.21739V20H7.30435L7.30435 22H10.4348V24H16.6957V22H19.8261V20H21.913V17H24V11H21.913V8L19.8261 8V6H16.6957V4H14.6087V2H12.5217V1H7.30435V0ZM4.17391 4V6H2.08696V4H4.17391ZM16.6957 10V8H14.6087V12H16.6957V17H13.5652V21H15.6522V19H17.7391V18H19.8261V12H18.7826V10H16.6957Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "slices1": []
+            }
+        },
+        "page": {
+            "id": "ZA7U8hAAAAaBYigw",
+            "uid": "home",
+            "url": "/",
+            "type": "home",
+            "href": "https://web-ogs.cdn.prismic.io/api/v2/documents/search?ref=ZYGUqxEAACMAuovi&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZA7U8hAAAAaBYigw%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-03-13T07:47:02+0000",
+            "last_publication_date": "2023-09-21T14:06:57+0000",
+            "slugs": [
+                "home"
+            ],
+            "linked_documents": [],
+            "lang": "en-za",
+            "alternate_languages": [],
+            "data": {
+                "hero_heading_line_1": "A Space for",
+                "hero_heading_line_2": "Independent",
+                "hero_heading_line_3": "Progressive",
+                "hero_heading_line_4": "Thinkers_",
+                "hero_sub_heading": "About Us",
+                "hero_paragraph": "A collective of creative technologists who have surfed the wave from web 1, 2 and 3. By invitation only.",
+                "hero_anchor_icon_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18 6L22 6L22 10L18 10L18 14L14 14L14 18L10 18L10 14L6 14L6 10L2 10L2 6L6 6L6 10L10 10L10 14L14 14L14 10L18 10L18 6Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "hero_anchor_text": "Scroll Down",
+                "hero_anchor_link": "#content",
+                "section_1_heading": "Solutions",
+                "section_1_sub_heading": [
+                    {
+                        "type": "heading3",
+                        "text": "We are shaping the future of <web3.AI> through [creative tech, experiences, storytelling, culture and community]",
+                        "spans": [
+                            {
+                                "start": 29,
+                                "end": 38,
+                                "type": "label",
+                                "data": {
+                                    "label": "span"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "section_1_paragraph": "We believe that the potential of web3 can be realised when we start with imagination, not limitations. No borders, no rulers, just people making cool shit, together.",
+                "list": [
+                    {
+                        "title": "Creator Media Tech",
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 1H15V3H19V5H21V9H23V15H21V19H19V21H15V23H9V21H5V19H3V15H1V9H3V5H5V3H9V1ZM9 17V7H11V8H13V9H15V11H17V13H15V15H13V16H11V17H9Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "paragraph": "Our blockchain-enabled media network empowers creators and brands by leveraging their audiences, through our proprietary platform >SWAYE_ to measure creators, influencers and brands' attribution value and performance."
+                    },
+                    {
+                        "title": "Performance Tech",
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4 2H14V4H12V8H16V6H18V8H20V22H4V2ZM18 10H10V4H6V20H18V10Z\" fill=\"currentColor\"></path>\n<path d=\"M16 6H14V4H16V6Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "paragraph": "GE-Force: The next-gen Performance Marketing accelerator across GamingEntertainment. Unlock your Brands potential from all the web 3 blockers, boosted by next-level results-driven marketing, that combines the powers of the most sophisticated algorithms in Facebook, Instagram, TikTok, YouTube machine learning data and ai, built into GE-Force to triple your content performance ranking + reach"
+                    },
+                    {
+                        "title": "UA Growth Tech",
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 15H7V23H5V15Z\" fill=\"currentColor\"></path>\n<path d=\"M9 11H11V23H9V11Z\" fill=\"currentColor\"></path>\n<path d=\"M1 17H3V23H1V17Z\" fill=\"currentColor\"></path>\n<path d=\"M13 13H15V23H13V13Z\" fill=\"currentColor\"></path>\n<path d=\"M17 5H19V23H17V5Z\" fill=\"currentColor\"></path>\n<path d=\"M21 1H23V23H21V1Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "paragraph": "Introducing OG.ai - A necessary product for web3 game changers, developers and innovators that allows an in-game rewards engine to let anyone play your game without the web3 blockers. But yes, still tracks ID/attribution. No email, no wallet. Just play and connect your wallet once you have assets/currency/rewards i.e. when you're motivated/incentivised to exchange/connect your wallet. No more bull$hit. Please and thank you."
+                    },
+                    {
+                        "title": "Brand IP Design",
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 2H17V3H18V4H19V5H20V7H18V6H17V5H16V4H15V2Z\" fill=\"currentColor\"></path>\n<path d=\"M13 6V4H15V6H13Z\" fill=\"currentColor\"></path>\n<path d=\"M11 8V6H13V8H11Z\" fill=\"currentColor\"></path>\n<path d=\"M9 10V8H11V10H9Z\" fill=\"currentColor\"></path>\n<path d=\"M7 12V10H9V12H7Z\" fill=\"currentColor\"></path>\n<path d=\"M10 15V17H9V18H8V19H3V14H4V13H5V12H7V14H8V15H10Z\" fill=\"currentColor\"></path>\n<path d=\"M12 13V15H10V13H12Z\" fill=\"currentColor\"></path>\n<path d=\"M14 11V13H12V11H14Z\" fill=\"currentColor\"></path>\n<path d=\"M16 9V11H14V9H16Z\" fill=\"currentColor\"></path>\n<path d=\"M16 9H18V7H16V9Z\" fill=\"currentColor\"></path>\n<path d=\"M20 22L3 22L3 20L20 20V22Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "paragraph": "Cool AF Brand Identity Design. End-to-end. Take your idea from a scribble and bring it to life with a fully-blown-out brand strategy from logo > website > pitch decks to funding with Intellectual Property that can be scaled to maximum potential, without being rugged, rekt or ripped-off."
+                    },
+                    {
+                        "title": "Community",
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 0H2V1H1V2H0V14H1V13H2V12H3V11H4V12H7V11H8V10H9V9H10V8H15V2H14V1H13V0Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M22 10H11V11H10V12H9V20H10V21H11V22H20V21H21V22H22V23H23V24H24V12H23V11H22V10ZM13 15H11V17H13V15ZM17 15H15V17H17V15ZM21 15H19V17H21V15Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "paragraph": "Real People. Real Community Culture. Call in the recruits to blow up your Community. Your die-hard brand champions. Gamify your community with your own automation technology that runs events and games on your Discord, to engage and grow your community."
+                    },
+                    {
+                        "title": "Token Gen Events (TGE)",
+                        "icon_html": [
+                            {
+                                "type": "preformatted",
+                                "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 1H10V2H12V4L10 4V3H6V4H4V2H6V1Z\" fill=\"currentColor\"></path>\n<path d=\"M4 12H2L2 10H1V6H2L2 4H4V6H3L3 10H4V12Z\" fill=\"currentColor\"></path>\n<path d=\"M14 16H12V14H10V15H6V14H4V12H6V13H10V12H12V10H13V6H12V4H14V6H15V10H14V12H16V14H14V16Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 16H14V18H16V20H18V22H22V18H20V16H18V14H16V16ZM18 18H16V16H18V18ZM18 18H20V20H18V18Z\" fill=\"currentColor\"></path>\n</svg>",
+                                "spans": []
+                            }
+                        ],
+                        "paragraph": "Call on the OGs to power up your Token Generation Event (TGE). Dive deep into bespoke tokenomics, killer marketing, and banging PR. Got a whitepaper or website dream? We've got you. Community? We grow it, protect it, and connect it to big-shot influencers. See and be seen with our ICO spotlight and press partnerships. Amp up with performance ads, and post-TGE game plans. Analytics? We're data junkies. Ready to rock your token? Let's go."
+                    }
+                ]
+            }
+        },
+        "footer": {
+            "id": "ZBBEeBAAABWUZMP9",
+            "uid": "footer",
+            "url": null,
+            "type": "footer",
+            "href": "https://web-ogs.cdn.prismic.io/api/v2/documents/search?ref=ZYGUqxEAACMAuovi&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZBBEeBAAABWUZMP9%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2023-03-14T10:00:46+0000",
+            "last_publication_date": "2023-08-14T09:51:57+0000",
+            "slugs": [
+                "footer"
+            ],
+            "linked_documents": [],
+            "lang": "en-za",
+            "alternate_languages": [],
+            "data": {
+                "heading": "Contact Us",
+                "sub_heading": [
+                    {
+                        "type": "heading3",
+                        "text": "Get in touch.",
+                        "spans": []
+                    }
+                ],
+                "paragraph": "We look forward to hearing about what you’re working towards - A world of web3-enabled possibilities awaits. Ready?",
+                "cta_label": "Let’s OG",
+                "cta_label_hover": "Let’s GO",
+                "cta_link": {
+                    "link_type": "Web",
+                    "url": "mailto:hello@web-ogs.com",
+                    "target": "_blank"
+                },
+                "cta_icon_html": [
+                    {
+                        "type": "preformatted",
+                        "text": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 14H4V16H2V19H3V21H5V22H8V20H10V22H8V24H5V23H3V24H0V21H1V19H0V16H2V14Z\" fill=\"currentColor\"></path>\n<path d=\"M4 20V18H6V20H4Z\" fill=\"currentColor\"></path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M24 0H14V2H12V4H5V6H3V8H1V9H0V11H3V12H7V13H9V15H7V17H9V15H11V17H12V21H13V24H15V23H16V21H18V19H20V12H22V10H24V0ZM16 16H13V15H11V13H13V11H11V13H9V11H8V8H10V6H12V4H14V2H22V10H20V12H18V14H16V16ZM16 16V18H14V21H16V19H18V16H16ZM8 8H6V10H3V8H5V6H8V8ZM16 4V5H15V6H14V8H15V9H16V10H18V9H19V8H20V6H19V5H18V4H16Z\" fill=\"currentColor\"></path>\n</svg>",
+                        "spans": []
+                    }
+                ],
+                "contact_heading": "Business",
+                "contact_links": [
+                    {
+                        "link": {
+                            "link_type": "Web",
+                            "url": "mailto:hello@web-ogs.com",
+                            "target": "_blank"
+                        },
+                        "label": "hello@web-ogs.com"
+                    }
+                ],
+                "copyright": "©web_OGs",
+                "hide_contact_us": null
+            }
+        }
+    },
+    "__N_SSG": true
+}
